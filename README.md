@@ -1,6 +1,6 @@
 ### Flex program examples for uni
-- [Q1](p01/README.md)
-- [Q2](p02/README.md)
-- [Q3](p03/README.md)
-- [Q4](p04/README.md)
-- [Q5](p05/README.md)
+- [Q1](p01/)
+- [Q2](p02/)
+- [Q3](p03/)
+- [Q4](p04/)
+- [Q5](p05/)
